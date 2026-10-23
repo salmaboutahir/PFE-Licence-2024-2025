@@ -1,0 +1,62 @@
+[
+    {
+        "nom": "adidas_backpack",
+        "titre": "Adidas Backpack",
+        "description": "Sac à dos Adidas stylé pour transporter vos affaires avec confort.",
+        "image": "adidas_backpack.png"
+    },
+    {
+        "nom": "apple_watch",
+        "titre": "Apple Watch",
+        "description": "Montre connectée dernier cri avec fonctionnalités santé et sport.",
+        "image": "apple_watch.png"
+    },
+    {
+        "nom": "headphones",
+        "titre": "Casque Audio",
+        "description": "Casque audio de haute qualité pour une expérience sonore immersive.",
+        "image": "headphones.png"
+    },
+    {
+        "nom": "iphone",
+        "titre": "iPhone",
+        "description": "Smartphone Apple dernière génération pour rester connecté.",
+        "image": "iphone.png"
+    },
+    {
+        "nom": "jbl_headphones",
+        "titre": "JBL Headphones",
+        "description": "Casque JBL pour une qualité sonore exceptionnelle.",
+        "image": "jbl_headphones.png"
+    },
+    {
+        "nom": "macbook",
+        "titre": "MacBook",
+        "description": "Ordinateur portable Apple performant et élégant.",
+        "image": "macbook.png"
+    },
+    {
+        "nom": "mechanical_keyboard",
+        "titre": "Clavier Mécanique",
+        "description": "Clavier mécanique RGB pour une expérience de frappe unique.",
+        "image": "mechanical_keyboard.png"
+    },
+    {
+        "nom": "msi_gaming_laptop",
+        "titre": "MSI Gaming Laptop",
+        "description": "PC portable gamer MSI pour des performances extrêmes.",
+        "image": "msi_gaming_laptop.png"
+    },
+    {
+        "nom": "nike_shoes",
+        "titre": "Nike Shoes",
+        "description": "Chaussures Nike confortables et tendance.",
+        "image": "nike_shoes.png"
+    },
+    {
+        "nom": "rayban_glasses",
+        "titre": "Ray-Ban Glasses",
+        "description": "Lunettes de soleil Ray-Ban pour un style iconique.",
+        "image": "rayban_glasses.png"
+    }
+]

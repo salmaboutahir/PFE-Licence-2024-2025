@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Produits</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Produits Disponibles</h1>
+    <div class="produits-grid">
+        {% for produit in produits %}
+        <div class="produit-card">
+            <img src="{{ url_for('static', filename='images/' + produit.image) }}" alt="{{ produit.titre }}">
+            <h2>{{ produit.titre }}</h2>
+            <p>{{ produit.description }}</p>
+            <a href="{{ url_for('avis', produit_nom=produit.nom) }}">Donner un avis</a>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
